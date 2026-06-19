@@ -1,10 +1,3 @@
-# PROJECT REPORT
-
-# ADVANCED BMI CALCULATOR WITH DATA ANALYTICS
-
-## Submitted By
-
-Siddhnath Prajapati
 
 ## Abstract
 
